@@ -1,6 +1,6 @@
-# LP Manual Assignment No. 7 – Uber Fare Price Prediction
+# LP3 Manual Assignment No. 7 – Uber Fare Price Prediction
 
-This repository contains **LP Manual Assignment No. 7** for the **Machine Learning (ML)** subject.
+This repository contains **LP3 Manual Assignment No. 7** for the **Machine Learning (ML)** subject.
 
 ### Details
 - **Course:** B.E. Computer Engineering
